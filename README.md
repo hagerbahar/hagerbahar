@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=24&letterSpacing=0.15rem&duration=2500&pause=1700&color=5C71F7&background=00000017&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Hager!;Welcome!)](https://git.io/typing-svg)
 ## Hi there 👋
 
 <!--
