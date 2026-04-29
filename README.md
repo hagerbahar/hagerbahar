@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=26&pause=1000&color=7578F7&width=435&lines=Hello+World%2C+I'm+Hager!+%E2%AD%90;Making+ideas+real%2C+efficient%2C+and+pretty)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=26&pause=1000&color=7578F7&width=600&lines=Hello+World%2C+I'm+Hager!+%E2%AD%90;Making+ideas+real%2C+efficient%2C+and+pretty)](https://git.io/typing-svg)
 ## Hi there 👋
 
 <!--
